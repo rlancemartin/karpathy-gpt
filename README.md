@@ -6,7 +6,7 @@ This app is a template for using LangChain to build a LLM Q+A assistant from any
 
 We use Karpathy's [course on LLMs](https://www.youtube.com/@AndrejKarpathy/videos) as an example.
 
-![image](https://github.com/rlancemartin/karpathy-gpt/assets/122662504/62eef1ab-4314-4398-8ba8-c985b5124b50)
+![image](https://github.com/rlancemartin/karpathy-gpt/assets/122662504/775af292-e528-4760-9793-c8547dff3bcb)
 
 We use LangChain to: 
 
@@ -35,7 +35,7 @@ See [the text files](https://github.com/rlancemartin/karpathy-gpt/tree/main/eval
 * Use the UI to run experiments
 * Select your best retriever, chain settings (e.g., k, split size, split overlap, etc), LLM, embeddings
 
-![image](https://github.com/rlancemartin/karpathy-gpt/assets/122662504/0dbc676f-077b-4cea-bf3e-49a298f9c28a)
+![image](https://github.com/rlancemartin/karpathy-gpt/assets/122662504/fa3dabd5-6bf5-4607-b1a5-dd50ed3acbb7)
 
 ## Step 3: text to VectorDB
 
